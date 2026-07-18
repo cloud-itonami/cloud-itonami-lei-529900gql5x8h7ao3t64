@@ -1,0 +1,5 @@
+[["simon-site-1" :site/url "https://www.simon.com" 1 :add]
+ ["simon-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["simon-site-1" :site/http-status 200 1 :add]
+ ["simon-site-1" :site/title "Simon: Shopping, Dining and Entertainment Destinations Near You" 1 :add]
+ ["simon-site-1" :site/description "Find a Simon Malls, Simon Mills and Simon Premium Outlets near you. Touch, try, buy your favorite fashion discovery at a Simon Center." 1 :add]]
